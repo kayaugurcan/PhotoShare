@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85841799322",
+    "project_id": "photoshare-5a348",
+    "storage_bucket": "photoshare-5a348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85841799322:android:47fd6fc30e9689fb9b5723",
+        "android_client_info": {
+          "package_name": "com.ugurcankaya.photoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85841799322-cv04gdcs02117nif6ukrtve5r0ct04tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4x0nHUJaWYCIh1lCZ8EiqdkRfKAu5UpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85841799322-cv04gdcs02117nif6ukrtve5r0ct04tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

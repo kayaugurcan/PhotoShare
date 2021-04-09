@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhotoShare</string>
+    <string name="kayit_ol">KAYIT OL</string>
+    <string name="giris_yap">GİRİŞ YAP</string>
+    <string name="sifrenizi_giriniz">Şifrenizi Giriniz</string>
+    <string name="email_adresini_giriniz">E-mail Adresini giriniz</string>
+    <string name="fotograf_paylas">Fotoğraf Paylaş</string>
+    <string name="cikis_yap">Çıkış Yap</string>
+    <string name="yorumunuzu_giriniz">Yorumunuzu Giriniz</string>
+    <string name="paylas">Paylaş</string>
+</resources>
